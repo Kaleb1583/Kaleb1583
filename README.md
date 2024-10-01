@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm **Kaleb**. I'm from **America (USA)**. ![GIF]()
+Hello, I'm **Kaleb**. I'm from **America (USA)**. 
 
 I know languages like **HTML**, **JavaScript**, **CSS**, **PHP**, and **Java**. I've been making little projects for fun for a couple of years now.
 
