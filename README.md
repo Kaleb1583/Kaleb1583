@@ -1,10 +1,19 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleb1583)](https://github.com/Kaleb1583/Kaleb1583/)
 
-hello im kaleb. im from America (usa). ![GodblessamericaUsaGIF](https://github.com/user-attachments/assets/36034d73-5d07-42dd-908b-db801679340c)
-I know languages like html, js, css, php, & java.
-Ive just been making little projects for fun for a couple years now.
+## About Me
 
-like i said above i stared to code a couple years ago and have been coding since!
+Hello, I'm **Kaleb**. I'm from **America (USA)**. ![GIF]()
 
-i learned using: w3schools, stackoverflow, youtube, google...
-yk the self taught programmer stereotype
+I know languages like **HTML**, **JavaScript**, **CSS**, **PHP**, and **Java**. I've been making little projects for fun for a couple of years now.
+
+As I mentioned, I started coding a few years ago and have been doing it ever since!
+
+### How I Learned
+I'm a self-taught programmer, and I learned using resources like:
+- **W3Schools**
+- **Stack Overflow**
+- **YouTube**
+- **Google**
+
+the typical self-taught programmer sterotype.
+
