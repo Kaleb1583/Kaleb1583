@@ -2,14 +2,14 @@
 
 ## About Me
 
-Hello, I'm **Kaleb**. I'm from **America (USA)**. 
+Hello, I'm **Kaleb**. I'm from **America**. 
 
 I know languages like **HTML**, **JavaScript**, **CSS**, **PHP**, and **Java**. I've been making little projects for fun for a couple of years now.
 
-As I mentioned, I started coding a few years ago and have been doing it ever since!
+I started coding a few years ago and have been doing it ever since
 
 ### How I Learned
-I'm a self-taught programmer, and I learned using resources like:
+I'm a self-taught programmer, and I learned using things like:
 - **W3Schools**
 - **Stack Overflow**
 - **YouTube**
